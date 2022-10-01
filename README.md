@@ -14,3 +14,4 @@ Test project for S3+Lambda+SES
     $ cdk init app --language=typescript
     ```
 
+---
